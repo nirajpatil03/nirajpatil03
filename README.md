@@ -6,7 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
+- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
 - 📫 How to reach me **niraj.patil.cs@ghriemjal.raisoni.net**
 
@@ -15,7 +21,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
+    <a href="http://www.cprogramming.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
@@ -53,6 +60,8 @@
 <p align="left">
 
 <a href = https://www.linkedin.com/in/niraj-patil-aa6b43218/><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.leetcode.com/niraj3289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niraj3289" height="35" width="45" /></a>
+<a href="https://www.hackerrank.com/@nirajbalupatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nirajbalupatil" height="35" width="45" /></a>
 <a href = "https://twitter.com/niraj_patil01"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_.l.u.c.i.f.e.r.___/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCoaVrweWwFklmuYImBermrw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
