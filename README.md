@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 📫 How to reach me **niraj.patil.cs@ghriemjal.raisoni.net**
+- 📫 How to reach me **nirajbalupatil@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
